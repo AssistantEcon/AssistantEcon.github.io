@@ -1,0 +1,22 @@
+Sector,Industry Grouping,Contribution
+,Total,0.6
+Services,N: Admin. Services,0.6
+,C: Manufacturing,0.6
+Services,J: IT,0.4
+,Between-industry reallocation,0.3
+,F: Construction,0.3
+,R: Recreation and Culture,0.1
+,P: Education,0.1
+,G: Wholesale and Retail,0.1
+,D: Energy,0
+,I: Hotels and Catering,0
+,Q: Health,0
+,H: Transport and Storage,0
+Services,O: Public admin and defence,0
+,A: Agriculture,-0.1
+Services,ST: Other Services,-0.1
+Services,L: Real Estate,-0.2
+,B: Mining and Quarrying,-0.2
+Services,M: Business Services,-0.3
+,E: Water Supply,-0.3
+Services,K: Finance and Insurance,-0.5
