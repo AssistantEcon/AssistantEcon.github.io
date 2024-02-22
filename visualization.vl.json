@@ -3,7 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/AssistantEcon/AssistantEcon.github.io/main/Sector%20productivity.csv"
   },
-  "title": {"text": "UK Productivity by sector 1960-2023"},
+  "title": {"text": "UK Productivity 1960-2023"},
   "width": 300,
   "height": 300,
   "mark": {"type": "bar", "color": "purple"},
